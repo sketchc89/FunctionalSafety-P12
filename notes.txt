@@ -1,0 +1,27 @@
+Purpose of the Safety Plan
+
+In your own words, you will describe the purpose of the safety plan.
+
+Item Definition
+
+An item definition describes which system is being considered for the functional safety analysis. We'll talk about item definition more in the lesson "Functional Safety Concept".
+
+Goals and Measures
+
+You will be expected to describe the goal of the project. Think about what the goal is of functional safety and how that goal relates to the project.
+
+Safety Culture
+
+Pretend that you work for a company looking into the functional safety of the advanced driver assistance system. You'll describe the characteristics of your company's safety culture.
+
+Safety Lifecycle Tailoring
+
+You will discuss which parts of the functional safety standard are in scope for this project.
+
+Development Interface Agreement
+
+While you will not need to create a development interface agreement, you will be asked to describe the agreement's purpose. You will also need to differentiate between what your company is in charge of and what other companies are in charge of for the advanced driver assistance system.
+
+Confirmation Measures
+
+You will be asked to describe the purpose of confirmation measures. You will also be asked to define terms like confirmation review, functional safety audit, and functional safety assessment.
