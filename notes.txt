@@ -1,3 +1,6 @@
+Predefined guidewords
+[Operation mode] on [Operational Scenario] during [Environmental Details] with [Situational Details] and [Item Usage] system.
+
 Purpose of the Safety Plan
 
 In your own words, you will describe the purpose of the safety plan.
